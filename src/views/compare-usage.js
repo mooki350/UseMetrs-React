@@ -53,7 +53,7 @@ const CompareUsage = (props) => {
           <span className="compare-usage-text6">
             <span>select option</span>
           </span>
-          <Link to="/usage-goals" className="compare-usage-navlink3">
+          <Link to="/" className="compare-usage-navlink3">
             <img
               alt="tablerarrowback4404"
               src="/playground_assets/tablerarrowback4404-m6vm.svg"
