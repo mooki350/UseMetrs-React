@@ -1,0 +1,60 @@
+.boring-button-container {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+
+
+
+
+@media(max-width: 479px) {
+  .boring-button-container {
+    flex: 1;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    align-self: center;
+    box-shadow: 0px 4px 11px 0px #d4d4d4;
+    align-items: center;
+    padding-top: var(--dl-space-space-unit);
+    padding-left: var(--dl-space-space-unit);
+    border-radius: var(--dl-radius-radius-round50);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-unit);
+    justify-content: center;
+    background-color: var(--dl-color-gray-900);
+  }
+  .boring-button-text {
+    color: rgba(57, 57, 57, 0.5);
+    width: auto;
+    height: auto;
+    font-size: 36px;
+    align-self: center;
+    text-align: center;
+    font-family: Inter;
+    font-weight: 500;
+    line-height: 1.15;
+    letter-spacing: 5px;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .boring-button-root-class-name {
+    position: 0px;
+    margin-right: var(--dl-space-space-halfunit);
+  }
+  .boring-button-root-class-name1 {
+    position: 0px;
+    margin-left: var(--dl-space-space-halfunit);
+  }
+  .boring-button-root-class-name2 {
+    position: 0px;
+    margin-right: var(--dl-space-space-halfunit);
+  }
+  .boring-button-root-class-name3 {
+    position: 0px;
+    margin-left: var(--dl-space-space-halfunit);
+  }
+}

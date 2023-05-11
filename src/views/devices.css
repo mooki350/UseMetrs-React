@@ -1,0 +1,491 @@
+.devices-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.devices-devices {
+  width: 497px;
+  height: 1104px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.devices-devices1 {
+  top: 114.585693359375px;
+  left: 20.708251953125px;
+  width: 453.2917175292969px;
+  height: 911.255859375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.devices-deviceswitch {
+  top: 0px;
+  left: 0px;
+  width: 453.2917175292969px;
+  height: 92.0319595336914px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.devices-box {
+  top: -14px;
+  left: -23px;
+  width: 507px;
+  height: 138px;
+  margin: auto;
+  position: absolute;
+}
+.devices-text {
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 47.6479606628418px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-text02 {
+  top: 42.58201217651367px;
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 38.11836624145508px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-menu {
+  top: 5.494393825531006px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-vector {
+  top: 43.95565414428711px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-deviceswitch1 {
+  top: 117.031982421875px;
+  left: 0px;
+  width: 453.2917175292969px;
+  height: 92.0319595336914px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.devices-box1 {
+  top: -14px;
+  left: -23px;
+  width: 507px;
+  height: 138px;
+  margin: auto;
+  position: absolute;
+}
+.devices-text04 {
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 47.6479606628418px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-text06 {
+  top: 42.58201217651367px;
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 38.11836624145508px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-menu1 {
+  top: 5.494393825531006px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-vector1 {
+  top: 43.95565414428711px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-deviceswitch2 {
+  top: 234.06396484375px;
+  left: 0px;
+  width: 453.2917175292969px;
+  height: 92.0319595336914px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.devices-box2 {
+  top: -14px;
+  left: -23px;
+  width: 507px;
+  height: 138px;
+  margin: auto;
+  position: absolute;
+}
+.devices-text08 {
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 47.6479606628418px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-text10 {
+  top: 42.58201217651367px;
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 38.11836624145508px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-menu2 {
+  top: 5.494393825531006px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-vector2 {
+  top: 43.95565414428711px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-deviceswitch3 {
+  top: 351.095947265625px;
+  left: 0px;
+  width: 453.2917175292969px;
+  height: 92.0319595336914px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.devices-box3 {
+  top: -14px;
+  left: -23px;
+  width: 507px;
+  height: 138px;
+  margin: auto;
+  position: absolute;
+}
+.devices-text12 {
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 47.6479606628418px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-text14 {
+  top: 42.58201217651367px;
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 38.11836624145508px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-menu3 {
+  top: 5.494393825531006px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-vector3 {
+  top: 43.95565414428711px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-deviceswitch4 {
+  top: 468.1279296875px;
+  left: 0px;
+  width: 453.2917175292969px;
+  height: 92.0319595336914px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.devices-box4 {
+  top: -14px;
+  left: -23px;
+  width: 507px;
+  height: 138px;
+  margin: auto;
+  position: absolute;
+}
+.devices-text16 {
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 47.6479606628418px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-text18 {
+  top: 42.58201217651367px;
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 38.11836624145508px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-menu4 {
+  top: 5.494562149047852px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-vector4 {
+  top: 43.95548629760742px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-deviceswitch5 {
+  top: 585.159912109375px;
+  left: 0px;
+  width: 453.2917175292969px;
+  height: 92.0319595336914px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.devices-box5 {
+  top: -14px;
+  left: -23px;
+  width: 507px;
+  height: 138px;
+  margin: auto;
+  position: absolute;
+}
+.devices-text20 {
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 47.6479606628418px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-text22 {
+  top: 42.58201217651367px;
+  left: 19.23063087463379px;
+  color: rgba(81, 81, 81, 1);
+  width: 415px;
+  height: auto;
+  position: absolute;
+  font-size: 38.11836624145508px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-menu5 {
+  top: 5.494562149047852px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-vector5 {
+  top: 43.95548629760742px;
+  left: 403.84173583984375px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.devices-header {
+  top: 0px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 93.32870483398438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.devices-text24 {
+  top: 12.424949645996094px;
+  color: rgba(144, 144, 144, 1);
+  width: 497px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.devices-navlink {
+  display: contents;
+}
+.devices-tablerarrowback {
+  top: 15.186050415039062px;
+  left: 426.5899353027344px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.devices-navlink1 {
+  display: contents;
+}
+.devices-icbaselinehome {
+  top: 20px;
+  left: 29px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.devices-navlink2 {
+  display: contents;
+}
+.devices-button {
+  top: 1011.9431762695312px;
+  left: 0px;
+  right: 0px;
+  width: 242px;
+  height: 57.98310089111328px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(144, 144, 144, 1);
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-round50);
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.devices-text26 {
+  top: 7px;
+  left: 7px;
+  color: rgb(144, 144, 144);
+  width: 222px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

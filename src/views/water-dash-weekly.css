@@ -1,0 +1,569 @@
+.water-dash-weekly-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.water-dash-weekly-water-dashboard-weekly {
+  width: 497px;
+  height: 1104px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.water-dash-weekly-text {
+  top: 149.09939575195312px;
+  left: 20.708250045776367px;
+  color: rgba(38, 175, 216, 1);
+  width: 436px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-tabs {
+  top: 86.97464752197266px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-navlink {
+  display: contents;
+}
+.water-dash-weekly-monthly {
+  top: -0.000020410156139405444px;
+  left: 331.3320007324219px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.water-dash-weekly-text02 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-weekly {
+  top: -0.000020410156139405444px;
+  left: 165.66600036621094px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-selected {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-text04 {
+  color: rgba(144, 144, 144, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-line1 {
+  top: 56.60253143310547px;
+  left: 33.133182525634766px;
+  width: 99px;
+  height: 1px;
+  z-index: 101;
+  position: absolute;
+}
+.water-dash-weekly-navlink1 {
+  display: contents;
+}
+.water-dash-weekly-daily {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.water-dash-weekly-text06 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-header {
+  top: 0px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 93.32870483398438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-text08 {
+  top: 12.424949645996094px;
+  color: rgba(144, 144, 144, 1);
+  width: 497px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-navlink2 {
+  display: contents;
+}
+.water-dash-weekly-tablerarrowback {
+  top: 15.186050415039062px;
+  left: 426.5899353027344px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.water-dash-weekly-navlink3 {
+  display: contents;
+}
+.water-dash-weekly-icbaselinehome {
+  top: 20px;
+  left: 29px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.water-dash-weekly-stuff {
+  top: 226.4102020263672px;
+  left: 20.708250045776367px;
+  width: 455.5815124511719px;
+  height: 385.1734619140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-graph {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 295.4377136230469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-maskgroup {
+  top: -0.00001728515599097591px;
+  left: 5.52219820022583px;
+  width: 445.91766357421875px;
+  height: 295.4377136230469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-group1 {
+  top: 103.541259765625px;
+  left: -9.66386890411377px;
+  width: 470.7675476074219px;
+  height: 191.89645385742188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-vector {
+  left: 5px;
+  width: 454px;
+  bottom: 1px;
+  height: 184px;
+  position: absolute;
+}
+.water-dash-weekly-vector1 {
+  top: -2px;
+  left: 30px;
+  width: 429px;
+  height: 141px;
+  position: absolute;
+}
+.water-dash-weekly-rectangle9 {
+  top: -102px;
+  right: 11px;
+  width: 456px;
+  height: 294px;
+  position: absolute;
+  border-color: rgba(144, 144, 144, 1);
+  border-style: solid;
+  border-width: 2.7611000537872314px;
+  border-radius: 13.805500030517578px 13.805500030517578px 0 0;
+}
+.water-dash-weekly-thistime {
+  top: 291.2960205078125px;
+  left: -0.0000019531250927684596px;
+  width: 227.79075622558594px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-text10 {
+  left: -7px;
+  color: rgba(52, 216, 38, 1);
+  width: 228px;
+  bottom: -6px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-arrows {
+  top: 59.36366271972656px;
+  left: 189.13534545898438px;
+  width: 28.472488403320312px;
+  height: 22.023075103759766px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-vector2 {
+  left: -23px;
+  width: 28px;
+  bottom: -9px;
+  height: 22px;
+  position: absolute;
+}
+.water-dash-weekly-current {
+  top: 291.2960205078125px;
+  left: 225.02964782714844px;
+  width: 230.55184936523438px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-text12 {
+  left: -3px;
+  color: rgba(38, 175, 216, 1);
+  width: 226px;
+  bottom: -4px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-recommendations {
+  top: 633.6724243164062px;
+  left: 20.708250045776367px;
+  width: 455.5815124511719px;
+  height: 455.5815124511719px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 456px;
+  height: 445px;
+  position: absolute;
+}
+.water-dash-weekly-recommendations1 {
+  top: 49.699825286865234px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 405.8817138671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-recommendation {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-charmtick {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-weekly-text14 {
+  top: 3.967285238104523e-7px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-recommendation1 {
+  top: 67.02629852294922px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-charmtick1 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-weekly-text16 {
+  top: -0.0000015785217328811996px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-recommendation2 {
+  top: 134.05259704589844px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-charmtick2 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-weekly-text18 {
+  top: 0.000003164291456414503px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-recommendation3 {
+  top: 201.07911682128906px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-charmtick3 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-weekly-text20 {
+  top: 0.0000011245726909692166px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-recommendation4 {
+  top: 268.10540771484375px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-charmtick4 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-weekly-text22 {
+  top: 0.000006778716851840727px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-recommendation5 {
+  top: 335.1317443847656px;
+  left: 19.32769775390625px;
+  width: 426.5899353027344px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-weekly-charmtick5 {
+  top: -6px;
+  right: -1px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-weekly-text24 {
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-weekly-mdilightbulbon {
+  top: 9.60440731048584px;
+  left: 13.805498123168945px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.water-dash-weekly-text26 {
+  color: rgba(38, 175, 216, 1);
+  width: 453px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

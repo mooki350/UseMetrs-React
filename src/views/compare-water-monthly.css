@@ -1,0 +1,655 @@
+.compare-water-monthly-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.compare-water-monthly-water-comparison-weekly {
+  width: 497px;
+  height: 1104px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.compare-water-monthly-text {
+  top: 149.09939575195312px;
+  left: 20.708250045776367px;
+  color: rgba(38, 175, 216, 1);
+  width: 436px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-tabs {
+  top: 86.97464752197266px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.compare-water-monthly-tabs1 {
+  width: 496.99798583984375px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-monthly {
+  top: 0.000040625000110594556px;
+  left: 331.3320007324219px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-selected {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-line1 {
+  top: 56.60259246826172px;
+  left: 33.13319778442383px;
+  width: 99px;
+  height: 1px;
+  position: absolute;
+}
+.compare-water-monthly-text02 {
+  color: rgba(144, 144, 144, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-navlink {
+  display: contents;
+}
+.compare-water-monthly-weekly {
+  top: 0.000040625000110594556px;
+  left: 165.66600036621094px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.compare-water-monthly-text04 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-navlink1 {
+  display: contents;
+}
+.compare-water-monthly-daily {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.compare-water-monthly-text06 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-header {
+  top: 0px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 93.32870483398438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-text08 {
+  top: 12.424949645996094px;
+  color: rgba(144, 144, 144, 1);
+  width: 497px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-navlink2 {
+  display: contents;
+}
+.compare-water-monthly-tablerarrowback {
+  top: 15.186050415039062px;
+  left: 426.5899353027344px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.compare-water-monthly-navlink3 {
+  display: contents;
+}
+.compare-water-monthly-icbaselinehome {
+  top: 20px;
+  left: 29px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.compare-water-monthly-recommendations {
+  top: 741.3553466796875px;
+  left: 20.708250045776367px;
+  width: 455.5815124511719px;
+  height: 455.5815124511719px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 456px;
+  height: 363px;
+  position: absolute;
+}
+.compare-water-monthly-recommendations1 {
+  top: 49.69968032836914px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 405.8817138671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-recommendation {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-charmtick {
+  top: -9px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.compare-water-monthly-text10 {
+  top: -0.000025781249860301614px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-recommendation1 {
+  top: 67.02608489990234px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-charmtick1 {
+  top: -9px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.compare-water-monthly-text12 {
+  top: 0.00020227050117682666px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-recommendation2 {
+  top: 134.0528564453125px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-charmtick2 {
+  top: -9px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.compare-water-monthly-text14 {
+  top: 0.00012785644503310323px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-recommendation3 {
+  top: 201.07896423339844px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-charmtick3 {
+  top: -10px;
+  right: 8px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.compare-water-monthly-text16 {
+  top: -0.00013237303937785327px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-recommendation4 {
+  top: 268.1050720214844px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-charmtick4 {
+  top: -17px;
+  right: 10px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.compare-water-monthly-text18 {
+  top: 0.000095678711659275px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-recommendation5 {
+  top: 335.1318664550781px;
+  left: 19.32769775390625px;
+  width: 426.5899353027344px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-text20 {
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-mdilightbulbon {
+  top: 9.604411125183105px;
+  left: 13.805498123168945px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.compare-water-monthly-text22 {
+  color: rgba(38, 175, 216, 1);
+  width: 453px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-text24 {
+  top: 611.5836791992188px;
+  left: 22.08880043029785px;
+  color: rgba(144, 144, 144, 1);
+  width: 454px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-text26 {
+  top: 662.6640014648438px;
+  left: 20.708250045776367px;
+  color: rgba(144, 144, 144, 1);
+  width: 454px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-component1 {
+  top: 681.99169921875px;
+  left: 172.56875610351562px;
+  width: 284px;
+  height: 27.611000061035156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.compare-water-monthly-bottom {
+  top: -3px;
+  right: 0px;
+  width: 277px;
+  height: 7px;
+  position: absolute;
+  border-radius: 17.94715118408203px;
+}
+.compare-water-monthly-top {
+  top: -3px;
+  left: 7px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+  border-radius: 17.94715118408203px;
+}
+.compare-water-monthly-slider {
+  top: -13px;
+  left: 0px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.compare-water-monthly-stuff {
+  top: 227.79075622558594px;
+  left: 17.9471492767334px;
+  width: 455.5815124511719px;
+  height: 385.1734619140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-thistime {
+  top: 291.2960205078125px;
+  left: 0.0000064453124650754035px;
+  width: 227.79075622558594px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-text28 {
+  top: 1.3804359436035156px;
+  left: 0.0000064453124650754035px;
+  color: rgba(217, 38, 38, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-current {
+  top: 291.2960205078125px;
+  left: 225.0296630859375px;
+  width: 230.55184936523438px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-text30 {
+  top: -0.00011406250268919393px;
+  left: 1.3805433511734009px;
+  color: rgba(144, 144, 144, 1);
+  width: 226px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-water-monthly-graph {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 294.0571594238281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-maskgroup {
+  top: -0.000021484374883584678px;
+  left: 5.5222063064575195px;
+  width: 447.2981872558594px;
+  height: 291.2960510253906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-water-monthly-vector4 {
+  left: -33px;
+  width: 519px;
+  bottom: 2px;
+  height: 142px;
+  position: absolute;
+}
+.compare-water-monthly-vector3 {
+  top: 148px;
+  left: -158px;
+  width: 768px;
+  height: 91px;
+  position: absolute;
+}
+.compare-water-monthly-vector {
+  top: 140px;
+  right: -5px;
+  width: 360px;
+  height: 104px;
+  position: absolute;
+}
+.compare-water-monthly-vector2 {
+  top: 183px;
+  left: -5px;
+  width: 478px;
+  height: 61px;
+  position: absolute;
+}
+.compare-water-monthly-rectangle9 {
+  top: 229px;
+  left: 20px;
+  width: 458px;
+  height: 291px;
+  position: absolute;
+  border-color: rgba(144, 144, 144, 1);
+  border-style: solid;
+  border-width: 2.7611000537872314px;
+  border-radius: 13.805500030517578px 13.805500030517578px 0 0;
+}
+.compare-water-monthly-toggle {
+  top: 629.5308227539062px;
+  left: 394.8373107910156px;
+  width: 62px;
+  height: 33.133201599121094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.compare-water-monthly-rectangle1 {
+  top: -14px;
+  right: -1px;
+  width: 62px;
+  height: 33px;
+  position: absolute;
+  border-radius: 190.5918426513672px;
+}
+.compare-water-monthly-ellipse {
+  top: -10px;
+  left: 5px;
+  width: 25px;
+  height: 26px;
+  position: absolute;
+}
+@media(max-width: 767px) {
+  .compare-water-monthly-rectangle9 {
+    top: 0px;
+    left: -6px;
+    width: 457px;
+    height: 288px;
+  }
+}

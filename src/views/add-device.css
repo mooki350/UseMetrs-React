@@ -1,0 +1,201 @@
+.add-device-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.add-device-add-new-device {
+  width: 497px;
+  height: 1104px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.add-device-header {
+  top: 0px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 93.32870483398438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.add-device-text {
+  top: 12.424949645996094px;
+  color: rgba(144, 144, 144, 1);
+  width: 497px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-device-navlink {
+  display: contents;
+}
+.add-device-tablerarrowback {
+  top: 15.186050415039062px;
+  left: 426.5899353027344px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.add-device-navlink1 {
+  display: contents;
+}
+.add-device-icbaselinehome {
+  top: 20px;
+  left: 29px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.add-device-text02 {
+  top: 95.25794982910156px;
+  left: 20.708250045776367px;
+  color: rgba(81, 81, 81, 1);
+  width: 436px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-device-text04 {
+  top: 247.1184539794922px;
+  left: 20.708250045776367px;
+  color: rgba(81, 81, 81, 1);
+  width: 436px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-device-dropdownmenu {
+  gap: 13.805500030517578px;
+  top: 323px;
+  left: 17px;
+  width: 456px;
+  height: 53.84144973754883px;
+  display: flex;
+  padding: 13.805500030517578px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(144, 144, 144, 1);
+  border-style: solid;
+  border-width: 2.7611000537872314px;
+  border-radius: 13.805500030517578px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.add-device-text06 {
+  color: rgba(127, 127, 127, 1);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20.708250045776367px;
+  font-style: Light;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 300;
+  line-height: 33.133201599121094px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-device-vector1 {
+  width: 14px;
+  height: 7px;
+}
+.add-device-dropdownmenu1 {
+  gap: 13.805500030517578px;
+  top: 173px;
+  left: 17px;
+  width: 456px;
+  height: 53.84144973754883px;
+  display: flex;
+  padding: 13.805500030517578px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(144, 144, 144, 1);
+  border-style: solid;
+  border-width: 2.7611000537872314px;
+  padding-left: 13.805500030517578px;
+  border-radius: 13.805500030517578px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.add-device-text08 {
+  color: rgb(127, 127, 127);
+  height: auto;
+  flex-grow: 1;
+  font-size: 20.7083px;
+  font-style: Light;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 300;
+  line-height: 33.1332px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.add-device-navlink2 {
+  display: contents;
+}
+.add-device-button {
+  top: 1011.9431762695312px;
+  left: 0px;
+  right: 0px;
+  width: 242px;
+  height: 57.98310089111328px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: rgba(144, 144, 144, 1);
+  border-width: 2px;
+  border-radius: var(--dl-radius-radius-round50);
+  text-decoration: none;
+  background-color: rgba(255, 255, 255, 1);
+}
+.add-device-text09 {
+  top: 7px;
+  left: 7px;
+  color: rgb(144, 144, 144);
+  width: 222px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

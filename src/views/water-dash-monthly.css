@@ -1,0 +1,577 @@
+.water-dash-monthly-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.water-dash-monthly-water-dashboard-weekly {
+  width: 497px;
+  height: 1104px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.water-dash-monthly-text {
+  top: 149.09939575195312px;
+  left: 20.708250045776367px;
+  color: rgba(38, 175, 216, 1);
+  width: 436px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-tabs {
+  top: 86.97464752197266px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.water-dash-monthly-tabs1 {
+  width: 496.99798583984375px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-monthly {
+  top: 0.000040625000110594556px;
+  left: 331.3320007324219px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-selected {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-line1 {
+  top: 56.60259246826172px;
+  left: 33.1331672668457px;
+  width: 99px;
+  height: 1px;
+  position: absolute;
+}
+.water-dash-monthly-text02 {
+  color: rgba(144, 144, 144, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-navlink {
+  display: contents;
+}
+.water-dash-monthly-weekly {
+  top: 0.000040625000110594556px;
+  left: 165.66600036621094px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.water-dash-monthly-text04 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-navlink1 {
+  display: contents;
+}
+.water-dash-monthly-daily {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.water-dash-monthly-text06 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-header {
+  top: 0px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 93.32870483398438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-text08 {
+  top: 12.424949645996094px;
+  color: rgba(144, 144, 144, 1);
+  width: 497px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-navlink2 {
+  display: contents;
+}
+.water-dash-monthly-tablerarrowback {
+  top: 15.186050415039062px;
+  left: 426.5899353027344px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.water-dash-monthly-navlink3 {
+  display: contents;
+}
+.water-dash-monthly-icbaselinehome {
+  top: 20px;
+  left: 29px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.water-dash-monthly-stuff {
+  top: 226.4102020263672px;
+  left: 20.708250045776367px;
+  width: 455.5815124511719px;
+  height: 385.1734619140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-graph {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 295.4377136230469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-maskgroup {
+  top: -0.00001728515599097591px;
+  left: 5.52219820022583px;
+  width: 445.91766357421875px;
+  height: 295.4377136230469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-group1 {
+  top: 103.541259765625px;
+  left: -9.66386890411377px;
+  width: 470.7675476074219px;
+  height: 191.89645385742188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-vector {
+  left: 5px;
+  width: 454px;
+  bottom: 1px;
+  height: 184px;
+  position: absolute;
+}
+.water-dash-monthly-vector1 {
+  top: -2px;
+  left: 30px;
+  width: 429px;
+  height: 141px;
+  position: absolute;
+}
+.water-dash-monthly-rectangle9 {
+  top: -102px;
+  right: 11px;
+  width: 456px;
+  height: 294px;
+  position: absolute;
+  border-color: rgba(144, 144, 144, 1);
+  border-style: solid;
+  border-width: 2.7611000537872314px;
+  border-radius: 13.805500030517578px 13.805500030517578px 0 0;
+}
+.water-dash-monthly-thistime {
+  top: 291.2960205078125px;
+  left: -0.0000019531250927684596px;
+  width: 227.79075622558594px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-text10 {
+  left: -7px;
+  color: rgb(52, 216, 38);
+  width: 228px;
+  bottom: -6px;
+  height: auto;
+  position: absolute;
+  font-size: 34.5138px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-arrows {
+  top: 59.36366271972656px;
+  left: 189.13534545898438px;
+  width: 28.472488403320312px;
+  height: 22.023075103759766px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-vector2 {
+  left: -15px;
+  width: 28px;
+  bottom: -7px;
+  height: 22px;
+  position: absolute;
+}
+.water-dash-monthly-current {
+  top: 291.2960205078125px;
+  left: 225.02964782714844px;
+  width: 230.55184936523438px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-text11 {
+  left: -3px;
+  color: rgba(38, 175, 216, 1);
+  width: 226px;
+  bottom: -4px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-recommendations {
+  top: 633.6724243164062px;
+  left: 20.708250045776367px;
+  width: 455.5815124511719px;
+  height: 455.5815124511719px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 456px;
+  height: 445px;
+  position: absolute;
+}
+.water-dash-monthly-recommendations1 {
+  top: 49.699825286865234px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 405.8817138671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-recommendation {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-charmtick {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-monthly-text13 {
+  top: 3.967285238104523e-7px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-recommendation1 {
+  top: 67.02629852294922px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-charmtick1 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-monthly-text15 {
+  top: -0.0000015785217328811996px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-recommendation2 {
+  top: 134.05259704589844px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-charmtick2 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-monthly-text17 {
+  top: 0.000003164291456414503px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-recommendation3 {
+  top: 201.07911682128906px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-charmtick3 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-monthly-text19 {
+  top: 0.0000011245726909692166px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-recommendation4 {
+  top: 268.10540771484375px;
+  left: -0.0000019531250927684596px;
+  width: 455.5815124511719px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-charmtick4 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-monthly-text21 {
+  top: 0.000006778716851840727px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-recommendation5 {
+  top: 335.1317443847656px;
+  left: 19.32769775390625px;
+  width: 426.5899353027344px;
+  height: 70.7500228881836px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.water-dash-monthly-charmtick5 {
+  top: -6px;
+  right: -1px;
+  width: 40px;
+  height: 54px;
+  position: absolute;
+}
+.water-dash-monthly-text23 {
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.water-dash-monthly-mdilightbulbon {
+  top: 9.60440731048584px;
+  left: 13.805498123168945px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.water-dash-monthly-text25 {
+  color: rgba(38, 175, 216, 1);
+  width: 453px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

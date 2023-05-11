@@ -1,0 +1,577 @@
+.gas-dash-monthly-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.gas-dash-monthly-gas-dashboard-weekly {
+  width: 497px;
+  height: 1104px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.gas-dash-monthly-stuff {
+  top: 226.4102020263672px;
+  left: 20.708250045776367px;
+  width: 455.5815124511719px;
+  height: 385.1734619140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-thistime {
+  top: 291.2960205078125px;
+  left: -0.000001953124865394784px;
+  width: 227.79075622558594px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-text {
+  top: 1.38056218624115px;
+  left: -0.000001953124865394784px;
+  color: rgb(217, 38, 38);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 34.5138px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-arrows {
+  top: 59.36366271972656px;
+  left: 189.13534545898438px;
+  width: 28.472488403320312px;
+  height: 22.023059844970703px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-vector1 {
+  top: -2px;
+  left: -16px;
+  width: 28px;
+  height: 22px;
+  position: absolute;
+}
+.gas-dash-monthly-current {
+  top: 291.2960205078125px;
+  left: 225.02964782714844px;
+  width: 230.55184936523438px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-text01 {
+  top: 0.00001220703143189894px;
+  left: 1.3805502653121948px;
+  color: rgba(41, 216, 38, 1);
+  width: 226px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-graph {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 295.4377136230469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-maskgroup {
+  top: -0.00001728515599097591px;
+  left: 5.52219820022583px;
+  width: 445.91766357421875px;
+  height: 295.4377136230469px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-group1 {
+  top: 103.541259765625px;
+  left: -9.663838386535645px;
+  width: 470.7675476074219px;
+  height: 191.89645385742188px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-vector {
+  top: 7px;
+  left: 4px;
+  width: 455px;
+  height: 182px;
+  position: absolute;
+}
+.gas-dash-monthly-vector1 {
+  top: -5px;
+  right: 10px;
+  width: 425px;
+  height: 141px;
+  position: absolute;
+}
+.gas-dash-monthly-rectangle9 {
+  top: -1px;
+  left: -5px;
+  width: 456px;
+  height: 294px;
+  position: absolute;
+  border-color: rgba(144, 144, 144, 1);
+  border-style: solid;
+  border-width: 2.7611000537872314px;
+  border-radius: 13.805500030517578px 13.805500030517578px 0 0;
+}
+.gas-dash-monthly-text03 {
+  top: 149.09939575195312px;
+  left: 20.708250045776367px;
+  color: rgba(41, 216, 38, 1);
+  width: 436px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-tabs {
+  top: 86.97464752197266px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.gas-dash-monthly-tabs1 {
+  width: 496.99798583984375px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-monthly {
+  top: 0.000040625000110594556px;
+  left: 331.3320007324219px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-selected {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-line1 {
+  top: 56.60259246826172px;
+  left: 33.13319778442383px;
+  width: 99px;
+  height: 1px;
+  position: absolute;
+}
+.gas-dash-monthly-text05 {
+  color: rgba(144, 144, 144, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-navlink {
+  display: contents;
+}
+.gas-dash-monthly-weekly {
+  top: 0.000040625000110594556px;
+  left: 165.66600036621094px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.gas-dash-monthly-text07 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-navlink1 {
+  display: contents;
+}
+.gas-dash-monthly-daily {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.gas-dash-monthly-text09 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-header {
+  top: 0px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 93.32870483398438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-text11 {
+  top: 12.424949645996094px;
+  color: rgba(144, 144, 144, 1);
+  width: 497px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-navlink2 {
+  display: contents;
+}
+.gas-dash-monthly-tablerarrowback {
+  top: 15.186050415039062px;
+  left: 426.5899353027344px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.gas-dash-monthly-navlink3 {
+  display: contents;
+}
+.gas-dash-monthly-icbaselinehome {
+  top: 20px;
+  left: 29px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.gas-dash-monthly-recommendations {
+  top: 633.6724243164062px;
+  left: 20.708250045776367px;
+  width: 455.5815124511719px;
+  height: 444.537109375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 456px;
+  height: 445px;
+  position: absolute;
+}
+.gas-dash-monthly-recommendations1 {
+  top: 49.699825286865234px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 394.8373107910156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-recommendation {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-charmtick {
+  top: -8px;
+  right: 12px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.gas-dash-monthly-text16 {
+  top: 3.967285238104523e-7px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-recommendation1 {
+  top: 65.20248413085938px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-charmtick1 {
+  top: -8px;
+  right: 12px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.gas-dash-monthly-text18 {
+  top: 0.0000021156311049708165px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-recommendation2 {
+  top: 130.4049835205078px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-charmtick2 {
+  top: -8px;
+  right: 12px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.gas-dash-monthly-text20 {
+  top: -0.00000470619215775514px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-recommendation3 {
+  top: 195.60748291015625px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-charmtick3 {
+  top: -8px;
+  right: 12px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.gas-dash-monthly-text22 {
+  top: -0.000007713318154856097px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-recommendation4 {
+  top: 260.8099670410156px;
+  left: -0.000001953124865394784px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-charmtick4 {
+  top: -8px;
+  right: 12px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.gas-dash-monthly-text24 {
+  top: -0.000005994415460008895px;
+  left: 19.32769775390625px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-recommendation5 {
+  top: 326.012451171875px;
+  left: 19.32769775390625px;
+  width: 426.5899353027344px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.gas-dash-monthly-charmtick5 {
+  top: -8px;
+  right: 2px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.gas-dash-monthly-text26 {
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.gas-dash-monthly-mdilightbulbon {
+  top: 9.60440731048584px;
+  left: 13.805498123168945px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.gas-dash-monthly-text28 {
+  color: rgba(41, 216, 38, 1);
+  width: 453px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,659 @@
+.compare-energy-monthly-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.compare-energy-monthly-energy-comparison-weekly {
+  width: 497px;
+  height: 1104px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.compare-energy-monthly-text {
+  top: 149.09939575195312px;
+  left: 20.708250045776367px;
+  color: rgba(216, 209, 38, 1);
+  width: 436px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-tabs {
+  top: 86.97464752197266px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.compare-energy-monthly-tabs1 {
+  width: 496.99798583984375px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-monthly {
+  top: 0.000040625000110594556px;
+  left: 331.3320007324219px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-selected {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-line1 {
+  top: 56.60259246826172px;
+  left: 33.1331672668457px;
+  width: 99px;
+  height: 1px;
+  position: absolute;
+}
+.compare-energy-monthly-text02 {
+  color: rgba(144, 144, 144, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-navlink {
+  display: contents;
+}
+.compare-energy-monthly-weekly {
+  top: 0.000040625000110594556px;
+  left: 165.66600036621094px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.compare-energy-monthly-text04 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-navlink1 {
+  display: contents;
+}
+.compare-energy-monthly-daily {
+  top: 0px;
+  left: 0px;
+  width: 165.66600036621094px;
+  height: 56.6025505065918px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.compare-energy-monthly-text06 {
+  color: rgba(192, 192, 192, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-header {
+  top: 0px;
+  left: 0px;
+  width: 496.99798583984375px;
+  height: 93.32870483398438px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-text08 {
+  top: 12.424949645996094px;
+  color: rgba(144, 144, 144, 1);
+  width: 497px;
+  height: auto;
+  position: absolute;
+  font-size: 49.69980239868164px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-navlink2 {
+  display: contents;
+}
+.compare-energy-monthly-tablerarrowback {
+  top: 15.186050415039062px;
+  left: 426.5899353027344px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.compare-energy-monthly-navlink3 {
+  display: contents;
+}
+.compare-energy-monthly-icbaselinehome {
+  top: 20px;
+  left: 29px;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  text-decoration: none;
+}
+.compare-energy-monthly-recommendations {
+  top: 741.3553466796875px;
+  left: 22.08880043029785px;
+  width: 455.5815124511719px;
+  height: 444.537109375px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-rectangle {
+  top: 0px;
+  left: 0px;
+  width: 456px;
+  height: 364px;
+  position: absolute;
+}
+.compare-energy-monthly-recommendations1 {
+  top: 49.69968032836914px;
+  left: -0.000006152343758003553px;
+  width: 455.5815124511719px;
+  height: 394.8373107910156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-recommendation {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-charmtick {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.compare-energy-monthly-text13 {
+  top: -0.000025781249860301614px;
+  left: 19.327693939208984px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-recommendation1 {
+  top: 65.20265197753906px;
+  left: -0.000006152343758003553px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-charmtick1 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.compare-energy-monthly-text15 {
+  top: 0.00001293945297220489px;
+  left: 19.327693939208984px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-recommendation2 {
+  top: 130.40464782714844px;
+  left: -0.000006152343758003553px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-charmtick2 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.compare-energy-monthly-text17 {
+  top: -0.00013415527064353228px;
+  left: 19.327693939208984px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-recommendation3 {
+  top: 195.60733032226562px;
+  left: -0.000006152343758003553px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-charmtick3 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.compare-energy-monthly-text19 {
+  top: -0.00009543457417748868px;
+  left: 19.327693939208984px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-recommendation4 {
+  top: 260.80999755859375px;
+  left: -0.000006152343758003553px;
+  width: 455.5815124511719px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-charmtick4 {
+  top: -6px;
+  right: 9px;
+  width: 40px;
+  height: 53px;
+  position: absolute;
+}
+.compare-energy-monthly-text21 {
+  top: -0.00005671386679750867px;
+  left: 19.327693939208984px;
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-recommendation5 {
+  top: 326.0126647949219px;
+  left: 19.327693939208984px;
+  width: 426.5899353027344px;
+  height: 68.8248519897461px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-text23 {
+  color: rgba(144, 144, 144, 1);
+  width: 377px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-mdilightbulbon {
+  top: 9.604411125183105px;
+  left: 13.80549430847168px;
+  width: 33px;
+  height: 33px;
+  position: absolute;
+}
+.compare-energy-monthly-text25 {
+  color: rgba(216, 209, 38, 1);
+  width: 453px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-text27 {
+  top: 611.5836791992188px;
+  left: 22.08880043029785px;
+  color: rgba(144, 144, 144, 1);
+  width: 454px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-text29 {
+  top: 662.6640014648438px;
+  left: 20.708250045776367px;
+  color: rgba(144, 144, 144, 1);
+  width: 454px;
+  height: auto;
+  position: absolute;
+  font-size: 27.611000061035156px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-toggle {
+  top: 629.5308227539062px;
+  left: 394.8373107910156px;
+  width: 62px;
+  height: 33.133201599121094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.compare-energy-monthly-rectangle1 {
+  top: -14px;
+  right: -1px;
+  width: 62px;
+  height: 33px;
+  position: absolute;
+  border-radius: 190.5918426513672px;
+}
+.compare-energy-monthly-ellipse {
+  top: -10px;
+  left: 5px;
+  width: 25px;
+  height: 26px;
+  position: absolute;
+}
+.compare-energy-monthly-component1 {
+  top: 681.99169921875px;
+  left: 172.56875610351562px;
+  width: 284px;
+  height: 27.611000061035156px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.compare-energy-monthly-bottom {
+  top: -3px;
+  right: 1px;
+  width: 277px;
+  height: 7px;
+  position: absolute;
+  border-radius: 17.94715118408203px;
+}
+.compare-energy-monthly-top {
+  top: -3px;
+  left: 6px;
+  width: 14px;
+  height: 7px;
+  position: absolute;
+  border-radius: 17.94715118408203px;
+}
+.compare-energy-monthly-slider {
+  top: -13px;
+  left: -1px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.compare-energy-monthly-stuff {
+  top: 227.79075622558594px;
+  left: 17.9471492767334px;
+  width: 455.5815124511719px;
+  height: 385.1734619140625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-thistime {
+  top: 291.2960205078125px;
+  left: 0.0000064453124650754035px;
+  width: 227.79075622558594px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-text31 {
+  top: 1.3804359436035156px;
+  left: 0.0000064453124650754035px;
+  color: rgba(217, 38, 38, 1);
+  width: 228px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-current {
+  top: 291.2960205078125px;
+  left: 225.0296630859375px;
+  width: 230.55184936523438px;
+  height: 93.87740325927734px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-text33 {
+  top: -0.00011406250268919393px;
+  left: 1.3805433511734009px;
+  color: rgba(144, 144, 144, 1);
+  width: 226px;
+  height: auto;
+  position: absolute;
+  font-size: 34.51375198364258px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Plus Jakarta Sans;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.compare-energy-monthly-graph {
+  top: 0px;
+  left: 0px;
+  width: 455.5815124511719px;
+  height: 294.0571594238281px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-maskgroup {
+  top: -0.000021484374883584678px;
+  left: 5.5222063064575195px;
+  width: 447.2981872558594px;
+  height: 291.2960510253906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.compare-energy-monthly-vector4 {
+  left: -4px;
+  width: 453px;
+  bottom: 2px;
+  height: 140px;
+  position: absolute;
+}
+.compare-energy-monthly-vector3 {
+  top: 145px;
+  left: -7px;
+  width: 457px;
+  height: 94px;
+  position: absolute;
+}
+.compare-energy-monthly-vector {
+  top: 142px;
+  right: -3px;
+  width: 360px;
+  height: 104px;
+  position: absolute;
+}
+.compare-energy-monthly-vector2 {
+  top: 166px;
+  left: -4px;
+  width: 455px;
+  height: 73px;
+  position: absolute;
+}
+.compare-energy-monthly-rectangle9 {
+  top: -2px;
+  left: -7px;
+  width: 458px;
+  height: 291px;
+  position: absolute;
+  border-color: rgba(144, 144, 144, 1);
+  border-style: solid;
+  border-width: 2.7611000537872314px;
+  border-radius: 13.805500030517578px 13.805500030517578px 0 0;
+}
+@media(max-width: 767px) {
+  .compare-energy-monthly-vector3 {
+    top: 145px;
+    left: -4px;
+  }
+  .compare-energy-monthly-rectangle9 {
+    top: 0px;
+    left: -6px;
+    width: 457px;
+    height: 288px;
+  }
+}
